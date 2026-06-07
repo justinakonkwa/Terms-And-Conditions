@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Confidentialité – Post_n8n</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Georgia, 'Times New Roman', serif; font-size: 16px; line-height: 1.8; color: #1a1a1a; background: #fafaf8; }
+    .container { max-width: 780px; margin: 0 auto; padding: 60px 40px; }
+    header { border-bottom: 2px solid #1a1a1a; padding-bottom: 32px; margin-bottom: 48px; }
+    header h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 8px; }
+    header p { font-size: 14px; color: #666; }
+    h2 { font-size: 18px; font-weight: 700; margin: 40px 0 16px; border-left: 3px solid #1a1a1a; padding-left: 14px; }
+    p { margin-bottom: 16px; color: #333; }
+    ul { margin: 12px 0 16px 24px; }
+    ul li { margin-bottom: 8px; color: #333; }
+    .highlight { background: #f0f0ec; border-radius: 6px; padding: 16px 20px; margin: 16px 0; font-size: 14px; }
+    .contact-box { border: 1px solid #ddd; border-radius: 8px; padding: 24px; margin-top: 40px; background: #fff; }
+    .contact-box p { margin: 4px 0; font-size: 15px; }
+    footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid #ddd; font-size: 13px; color: #999; text-align: center; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>Politique de Confidentialité</h1>
+    <p>Application : <strong>Post_n8n</strong> &nbsp;|&nbsp; Page : <strong>Barcelonne rakutan</strong> &nbsp;|&nbsp; Dernière mise à jour : 7 juin 2026</p>
+  </header>
+
+  <h2>1. Introduction</h2>
+  <p>La présente politique de confidentialité décrit la manière dont l'application <strong>Post_n8n</strong>, exploitée par <strong>Justin Jaz</strong>, collecte, utilise et protège les informations dans le cadre de la publication automatique de contenus sur la Page Facebook <strong>Barcelonne rakutan</strong>.</p>
+  <p>En utilisant cette application, vous acceptez les pratiques décrites dans la présente politique.</p>
+
+  <h2>2. Données collectées</h2>
+  <p>L'application Post_n8n est un outil d'automatisation qui publie des contenus sur une Page Facebook. Dans ce cadre, elle peut traiter les données suivantes :</p>
+  <ul>
+    <li>Informations publiques de la Page Facebook (nom, identifiant de page)</li>
+    <li>Tokens d'accès Facebook utilisés exclusivement pour la publication de posts</li>
+    <li>URLs et titres d'articles issus de flux RSS publics</li>
+    <li>Images générées automatiquement ou extraites d'articles publics</li>
+  </ul>
+  <div class="highlight">
+    <strong>Important :</strong> Aucune donnée personnelle d'utilisateurs tiers n'est collectée, stockée ou partagée. L'application traite uniquement des données liées à la gestion de la Page Facebook de son propriétaire.
+  </div>
+
+  <h2>3. Utilisation des données</h2>
+  <p>Les données traitées sont utilisées exclusivement aux fins suivantes :</p>
+  <ul>
+    <li>Publication automatique de posts sur la Page Facebook <strong>Barcelonne rakutan</strong></li>
+    <li>Vérification des contenus déjà publiés pour éviter les doublons</li>
+    <li>Génération de textes et d'images via des services d'intelligence artificielle (Google Gemini, Pollinations.ai)</li>
+    <li>Journalisation des publications dans un tableur Google Sheets privé</li>
+  </ul>
+
+  <h2>4. Partage des données</h2>
+  <p>Les données ne sont pas vendues, louées ni cédées à des tiers. Elles peuvent être transmises aux services suivants dans le strict cadre du fonctionnement de l'application :</p>
+  <ul>
+    <li><strong>Meta / Facebook</strong> – pour la publication via l'API Graph Facebook</li>
+    <li><strong>Google Gemini API</strong> – pour la génération de texte (titres et descriptions d'articles publics uniquement)</li>
+    <li><strong>Pollinations.ai</strong> – pour la génération d'images (prompts basés sur des titres d'articles publics)</li>
+    <li><strong>Google Sheets</strong> – pour le stockage du journal de publication (accès privé)</li>
+  </ul>
+
+  <h2>5. Conservation des données</h2>
+  <p>Les tokens d'accès Facebook sont stockés de manière sécurisée dans l'environnement n8n et ne sont jamais exposés publiquement. Le journal Google Sheets est accessible uniquement par le propriétaire de l'application.</p>
+  <p>Les données sont conservées le temps nécessaire au bon fonctionnement de l'automatisation et peuvent être supprimées à tout moment par le propriétaire.</p>
+
+  <h2>6. Sécurité</h2>
+  <p>Nous mettons en œuvre des mesures techniques appropriées pour protéger les données contre tout accès non autorisé :</p>
+  <ul>
+    <li>Tokens d'accès stockés dans des variables d'environnement sécurisées</li>
+    <li>Accès à l'instance n8n restreint par authentification</li>
+    <li>Aucun stockage de données sensibles dans des espaces publics</li>
+  </ul>
+
+  <h2>7. Vos droits</h2>
+  <p>Conformément au Règlement Général sur la Protection des Données (RGPD) et aux lois applicables, vous disposez des droits suivants :</p>
+  <ul>
+    <li>Droit d'accès à vos données personnelles</li>
+    <li>Droit de rectification ou de suppression</li>
+    <li>Droit d'opposition au traitement</li>
+    <li>Droit à la portabilité des données</li>
+  </ul>
+  <p>Pour exercer ces droits, contactez-nous via l'adresse indiquée ci-dessous.</p>
+
+  <h2>8. Permissions Facebook utilisées</h2>
+  <p>L'application utilise les permissions Facebook suivantes, uniquement pour la gestion de la Page de son propriétaire :</p>
+  <ul>
+    <li><strong>pages_manage_posts</strong> – pour publier des posts sur la Page</li>
+    <li><strong>pages_read_engagement</strong> – pour lire les informations de la Page</li>
+    <li><strong>pages_show_list</strong> – pour lister les Pages gérées</li>
+  </ul>
+  <p>Ces permissions ne sont utilisées qu'à des fins de publication automatique de contenus d'actualité. Aucune donnée de visiteurs ou d'abonnés de la Page n'est collectée.</p>
+
+  <h2>9. Modifications de la politique</h2>
+  <p>Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Toute modification sera publiée sur cette page avec une date de mise à jour. Nous vous encourageons à consulter cette page régulièrement.</p>
+
+  <h2>10. Contact</h2>
+  <div class="contact-box">
+    <p><strong>Responsable :</strong> Justin Jaz</p>
+    <p><strong>Application :</strong> Post_n8n</p>
+    <p><strong>Page Facebook :</strong> Barcelonne rakutan</p>
+    <p><strong>Email :</strong> justinakonwa0@gmail.com</p>
+  </div>
+
+  <footer>
+    <p>© 2026 Post_n8n – Justin Jaz. Tous droits réservés.</p>
+    <p style="margin-top:8px">Cette politique est conforme aux exigences de Meta for Developers et au RGPD.</p>
+  </footer>
+
+</div>
+</body>
+</html>
