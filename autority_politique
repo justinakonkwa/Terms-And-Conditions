@@ -1,0 +1,50 @@
+Politique de confidentialité
+Application « Bourgmestre » (Espace Bourgmestre) · Dernière mise à jour : 15 octobre 2026
+
+1. Qui sommes-nous ?
+L'application « Bourgmestre » permet aux bourgmestres des communes de la République Démocratique du Congo de relire et valider les documents administratifs préparés par les agents communaux (actes, attestations, certificats…).
+
+Elle est éditée par Hologram Identification Services, dans le cadre de la plateforme e-Mairie, pour le compte des communes utilisatrices.
+
+Contact pour toute question relative à vos données : +243 975 024 769.
+
+2. À qui s'adresse l'application ?
+L'application est réservée aux autorités communales disposant d'un compte créé par l'administration. Il n'est pas possible de s'y inscrire librement. Elle n'est pas destinée aux mineurs.
+
+3. Données traitées
+Donnée	Pourquoi
+Identifiant de connexion et mot de passe	Vous authentifier. Le mot de passe est transmis de façon chiffrée et n'est jamais conservé sur le téléphone.
+Nom, commune et site de rattachement	Afficher votre espace et les documents de votre commune.
+Image de votre signature et du sceau de la commune	Les apposer sur les documents que vous validez. Ces images sont importées depuis votre galerie ou votre appareil photo, uniquement à votre demande.
+Jeton de notification de l'appareil	Vous prévenir lorsqu'un document attend votre validation.
+Historique de vos validations (date, document)	Assurer la traçabilité des actes administratifs.
+L'application affiche aussi des données concernant les citoyens qui ont demandé un document (nom, type de document, montant, informations du dossier). Ces données sont traitées pour le compte de la commune, uniquement pour permettre leur validation.
+
+L'application ne collecte pas votre position, vos contacts, ni de données publicitaires. Elle ne contient aucun outil de suivi ni de publicité.
+
+4. Autorisations demandées sur le téléphone
+Photos / appareil photo : seulement lorsque vous choisissez d'importer votre signature ou le sceau.
+Notifications : pour être averti des documents à valider. Vous pouvez les désactiver dans les réglages du téléphone.
+Internet : pour communiquer avec les serveurs e-Mairie.
+5. Base légale
+Ces traitements sont nécessaires à l'exécution d'une mission d'intérêt public confiée aux communes : la délivrance des documents administratifs. Ils sont réalisés dans le respect de la législation congolaise applicable en matière de protection des données personnelles.
+
+6. Partage des données
+Vos données ne sont ni vendues ni louées. Elles ne sont accessibles qu'aux personnes habilitées de la commune et de l'éditeur, et aux prestataires techniques suivants :
+
+Hébergement des serveurs e-Mairie : le prestataire d'hébergement de Hologram Identification Services, tenu à la confidentialité.
+Google Firebase Cloud Messaging : envoi des notifications (seul le jeton de notification est concerné).
+7. Durée de conservation
+Données de compte, signature et sceau : tant que votre compte est actif, puis supprimées ou archivées à la fin de votre mandat, à la demande de la commune.
+Historique des validations : conservé selon les règles d'archivage des actes administratifs de la commune.
+Sur le téléphone : la session est conservée jusqu'à la déconnexion, qui efface les informations de session de l'appareil.
+8. Sécurité
+Les échanges entre l'application et les serveurs sont chiffrés (HTTPS). L'accès est protégé par identifiant et mot de passe, et chaque action de validation est enregistrée.
+
+9. Vos droits
+Vous pouvez demander l'accès à vos données, leur rectification ou leur suppression, ou vous opposer à un traitement, en contactant Hologram Identification Services au +243 975 024 769. Pour la suppression de votre compte, la demande peut aussi passer par l'administration de votre commune.
+
+10. Modifications
+Cette politique peut évoluer. La date de dernière mise à jour figure en haut de la page. En cas de changement important, vous en serez informé dans l'application.
+
+© Hologram Identification Services – e-Mairie RDC
