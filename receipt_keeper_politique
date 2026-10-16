@@ -1,0 +1,59 @@
+Effective date: October 16, 2026
+
+ReceiptKeeper ("the app", "we", "us") helps you keep track of receipts, return windows and warranties. This policy explains what information the app handles, where it is stored, and the choices you have. We built ReceiptKeeper to work without an account, and your receipts stay on your device.
+
+1. Information stored on your device
+The app stores the following information only on your device, in the app's private storage:
+
+Receipt details you enter or scan: item name, store, price, purchase date, return window, warranty length, notes and status (for example "returned").
+Receipt photos you take with the camera or choose from your photo library.
+App settings, such as whether you completed onboarding and your reminder preferences.
+We do not have a server that receives this information. We cannot see, read or recover your receipts. If you delete the app, this data is deleted with it, unless your device's own backup (iCloud or Google backup) includes app data under your device settings.
+
+2. Camera and photo library
+The app asks for camera access to photograph receipts and photo library access to let you pick receipt images. Photos are used only to store the receipt and to read its text. You can refuse or withdraw these permissions at any time in your device settings; you can still enter receipts manually.
+
+3. Text recognition (OCR)
+To read the store name, total and date from a receipt photo, the app uses Google ML Kit Text Recognition, which runs on your device. Receipt images are not uploaded for recognition. Google ML Kit may send limited, non-personal diagnostic and usage information (such as device model, OS version and API performance metrics) to Google to keep the service working. See Google's ML Kit terms and privacy information at https://developers.google.com/ml-kit/terms.
+
+4. Reminders
+Return and warranty reminders are scheduled as local notifications on your device. No notification content is sent to us or to a push notification server. You can turn notifications off at any time in your device settings.
+
+5. PDF export and sharing
+If you are a Pro subscriber, you can export receipts as a PDF. The PDF is created on your device. It leaves your device only when you choose to share, save or print it, and then only to the destination you pick (for example email, files or a messaging app).
+
+6. Subscriptions and purchases
+ReceiptKeeper Pro is sold as an auto-renewing subscription through the Apple App Store or Google Play. Payments are handled entirely by Apple or Google; we never see or store your payment card details.
+
+We use RevenueCat to manage subscriptions. To confirm whether you have an active subscription, RevenueCat receives:
+
+a random, anonymous app user identifier created by the app (not linked to your name or email);
+purchase and subscription information from the App Store or Google Play (product, price, currency, purchase date, renewal and trial status, store transaction identifiers);
+basic technical information such as device type, OS version, app version, country/region and IP address.
+RevenueCat processes this data on our behalf to provide subscription services. RevenueCat's privacy policy: https://www.revenuecat.com/privacy. Apple's and Google's handling of your purchase is covered by their own privacy policies.
+
+7. Fonts
+The app may download its typefaces from Google Fonts the first time they are needed. This request reveals your IP address to Google but contains no receipt data. Google's privacy policy: https://policies.google.com/privacy.
+
+8. What we do not do
+We do not require or offer an account.
+We do not collect your name, email address, phone number, contacts or precise location.
+We do not use advertising, ad identifiers or third-party analytics.
+We do not sell or share your personal information for advertising, and we do not track you across other apps or websites.
+9. Data retention and deletion
+Receipt data and photos remain on your device until you delete them in the app or delete the app. Subscription records held by RevenueCat, Apple and Google are kept as long as needed to provide the subscription and to meet legal, tax and accounting obligations. To ask RevenueCat-related data to be deleted, contact us at the address below with the store you purchased from and the approximate purchase date, and we will handle the request with RevenueCat.
+
+10. Children
+ReceiptKeeper is not directed to children under 13 (or the minimum age in your country), and we do not knowingly collect personal information from children.
+
+11. Your rights
+Depending on where you live, including California (CCPA/CPRA), Australia (Privacy Act 1988) and the European Economic Area or United Kingdom (GDPR), you may have the right to access, correct or delete personal information, or to object to certain processing. Because receipts are stored only on your device, you control them directly. For information held by our subscription provider, contact us and we will help.
+
+12. Security
+Your data is stored in the app's private storage, protected by your device's security (passcode, biometrics and encryption). Communication with RevenueCat and the app stores uses encrypted connections (HTTPS).
+
+13. Changes to this policy
+We may update this policy when the app changes. We will update the effective date above and, for significant changes, tell you in the app or on the store listing.
+
+14. Contact
+Questions or requests about privacy: jazakon3.0@gmail.com
